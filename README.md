@@ -18,14 +18,16 @@
 
 ## 基本情報
 
+**Shinichi Kogiso(kgsi)**  
+
 |媒体|リンク|
 |---|-----|
-|Web SIte|[Aircolor](http://aircolor.org)|
-|Blog|[Aircolor memolog](http://aircolor.hatenablog.com)|
-|Twitter|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
-|Qiita|[https://qiita.com/kgsi](https://qiita.com/kgsi)|
+|web|[Aircolor](http://aircolor.org)|
+|blog|[Aircolor memolog](http://aircolor.hatenablog.com)|
+|twitter|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
+|qiita|[https://qiita.com/kgsi](https://qiita.com/kgsi)|
 |dribbble|[https://dribbble.com/kgsi](https://dribbble.com/kgsi)|
-|Mail|[Gmail](kuusai1998@gmail.com)|
+|mail|[Gmail](kuusai1998@gmail.com)|
 
 ## 学歴・職歴
 |年月|職歴|
@@ -42,14 +44,14 @@
 
 ### プログラミング・実装経験
 
-- HTML5, CSS3, JavaScript を使ったWebフロントエンドの制作
-- Browserify, Gulp, Webpack等のビルドタスクツール活用
+- Browserify, Gulp, Webpack等のビルドツールを利用した開発
 - jQuery、CreateJS、D3.jsを利用したリッチWebコンテンツの開発
 - Electronフレームワークを使ったデスクトップ・インスタレーションアプリの開発
 - Cordovaフレームワークを使ったハイブリッドアプリの構築・リリース（iOSに特化）
 - Vue.jsを使ったWebアプリケーションの開発
 - LAMP環境でのPHP + MySQLを使ったWebアプリケーション、Webサイトの構築
 - WordPressによるCMS実装、簡易バックエンド環境の構築
+- HTML5, CSS3, JavaScript を使ったWebフロントエンドの制作
 - Bitbucket, SourceTreeを使ったGit管理・開発
 - AWS, Azure, Firebaseを使ったバックエンド構築（ライトな開発）
 
@@ -61,9 +63,9 @@
 - ワイヤーフレームやプロトタイピングを通しての提案、ディスカッション経験
 
 ### その他経験
-- 全体スケジュール管理、及びクライアントとの応対業務
+- 全体スケジュール管理、及びクライアント応対業務
 - 空撮用ドローンによる撮影業務
-- 海外赴任経験あり（タイ支社・赴任期間：合計約２ヶ月）
+- 海外赴任経験あり（タイ支社・赴任期間：合計約3ヶ月）
 
 
 ## スキル
@@ -78,13 +80,12 @@
 - HTML(EJS, pug)
 - CSS
 - Sass
-- Javascript
+- JavaScript
+- TypeScript(angular,ionicでのみ)
 - PHP
 - Python
 - C#(Unity)
 - Markdown
-- Node.js
-- TypeScript(angular,ionicでのみ)
 
 #### 趣味レベル
 - Processing(P5.js)
