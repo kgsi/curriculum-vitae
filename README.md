@@ -52,15 +52,13 @@
 
 ### プログラミング・実装経験
 
-- Browserify, Gulp, Webpack等のビルドツールを利用した開発
-- jQuery、CreateJS、D3.jsを利用したリッチWebコンテンツの開発
-- Electronフレームワークを使ったデスクトップ・インスタレーションアプリの開発
-- Cordovaフレームワークを使ったハイブリッドアプリの構築・リリース（iOSに特化）
-- HTML5, CSS3, JavaScript を使ったWebフロントエンドの制作
-- 各種フレームワークを使ったWebアプリケーションの開発
-- WordPressによるCMS実装、簡易バックエンド環境の構築
-- Git管理・開発
-- 簡易なバックエンド構築
+- Webフロントエンド開発
+- リッチWebコンテンツの開発
+- Webアプリケーションの開発
+- デスクトップ・インスタレーションアプリの開発
+- ハイブリッドアプリケーションの構築・リリース（iOSに特化）
+- CMS実装、簡易バックエンド環境の構築
+- Git管理による開発
 
 ### その他経験
 - 全体スケジュール管理、及びクライアント応対業務
@@ -80,16 +78,17 @@
 
 ### プログラム言語
 #### 実務経験あり
-- HTML(EJS, pug)
+- HTML
 - CSS
 - Sass
+- PostCSS
 - JavaScript
-- TypeScript(angular,ionicでのみ)
+- TypeScript
 - PHP
 - Python
+- NodeJS
 - C#(Unity)
 - Markdown
-- PostCSS
 
 #### 趣味レベル
 - Processing(P5.js)
