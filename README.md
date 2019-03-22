@@ -22,8 +22,8 @@
 
 |媒体|リンク|
 |---|-----|
-|web|[Aircolor](http://aircolor.org)|
-|blog|[Aircolor memolog](http://aircolor.hatenablog.com)|
+|web|[aircolor](http://aircolor.org)|
+|blog|[aircolor memolog](http://aircolor.hatenablog.com)|
 |twitter|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
 |qiita|[https://qiita.com/kgsi](https://qiita.com/kgsi)|
 |dribbble|[https://dribbble.com/kgsi](https://dribbble.com/kgsi)|
