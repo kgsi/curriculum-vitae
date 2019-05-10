@@ -152,8 +152,8 @@
 - Scenaristを使ったDVDオーサリング作業
 
 ## 自己PR
-Webサイトやアプリケーションのデザイン/UI設計から、最終的な実装まで、ほぼすべての工程に携わることが可能です。ただし、顧客対応やスケジュール・工程管理についてはオプショナルとしての対応が多かったので、それほど得意ではありません。
-HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](https://qiita.com/kgsi/items/65ee2d7814e5cfa199d2)などのアウトプット多数
+Webサイトやアプリケーションのデザイン/UI設計から最終的な実装まで、ほぼすべての工程に携わることが可能です。デザイン構築からフロントエンド実装までを得意領域としています。
+HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](https://qiita.com/kgsi/items/65ee2d7814e5cfa199d2)などのアウトプット多数あります。
 
 ## 興味
 プロダクト制作・開発全般、その中でも特にUI設計とそれに付随するフロントエンド開発に興味があります。
@@ -179,4 +179,5 @@ HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](h
 - [はてなブログ テーマコンテスト 最優秀賞](http://staff.hatenablog.com/entry/2013/05/27/160012)
 
 ## 登壇経験
+- [Inside Frontend 2019](https://inside-frontend.com/)
 - [「Webのこれからを語ろう」Ionic Meetup Tokyo #4 LT](https://speakerdeck.com/kgsi/ben-fan-huan-jing-wofen-kerusinpurunafang-fa-with-ionic)
