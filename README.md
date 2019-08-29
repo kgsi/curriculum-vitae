@@ -74,34 +74,38 @@
 - InVision
 - Magica Voxel
 
+等...
+
 ### プログラム言語
 #### 実務経験あり
 - HTML
 - CSS
 - Sass
 - PostCSS
+- styled-component
 - JavaScript
-- TypeScript（Angular）
+- TypeScript
 - PHP
 - Python
 - NodeJS
 - C#(Unity)
-- Markdown
 
 #### 趣味レベル
 - Processing(P5.js)
+- Flutter
 
-### フレームワーク・ライブラリ利用経験
-#### 実務経験あり
-- jQuery
+### フレームワーク・ライブラリ利用経験例
 - Vue.js
 - React.js
+- Ionic
+- jQuery
 - Electron
 - CreateJS
 - D3.js
-- Ionic
 - Cordova
 - Phonegap
+
+他多数...
 
 ## 職務経歴
 
@@ -117,13 +121,13 @@
 #### Webデザイナー : 2009.08 - 2019.03
 - Webサイトのデザイン・HTMLコーディング
 - Webサイトの更新・修正作業
-- WordPress・MovableTypeを使ったCMS構築
+- WordPress・MovableTypeを使ったCMS実装
 - 名刺・チラシ・カタログなどのデザイン制作
 
 #### エンジニア : 2014.08 - 2019.03
-- Webサイトデザイン・HTMLコーディン・WordPress・MT実装
-- ネイティブアプリ(iOS, Android)のデザイン
-- ハイブリッドアプリ(iOS, Android)の開発及びデザイン
+- Webフロントエンド実装
+- ネイティブアプリ(iOS, Android)のデザイン制作
+- ハイブリッドアプリ(iOS, Android)の開発及びデザイン制作
 - Unity(2D)を使ったインスタレーションアプリの開発
 - レスポンシブWebサイトのマークアップ、アニメーション実装
 - ドローン空撮業務の兼務
@@ -134,8 +138,8 @@
 
 #### Webデザイナー : 2008.04 - 2009.07
 - 自社Webサービスのデザイン制作
-- CMS構築
 - 商業施設のチラシ・ポスター制作
+- WordPressを使ったCMS実装
 
 ### 都内コンテンツ制作会社（2007.04 - 2008.03）
 
@@ -162,7 +166,7 @@ HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](h
 ## 得意でないこと・できないこと
 - 本格的なゲーム開発
 - サーバサイドの開発・運用
-- ネイティブアプリケーション開発
+- ネイティブアプリケーション開発（Swift, Kotorin）
 - ルーチン・単純作業
 
 ## 保有資格
