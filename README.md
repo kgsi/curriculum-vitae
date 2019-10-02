@@ -82,7 +82,7 @@
 - CSS
 - Sass
 - PostCSS
-- styled-component
+- CSS in JS
 - JavaScript
 - TypeScript
 - PHP
@@ -101,6 +101,7 @@
 - jQuery
 - Electron
 - CreateJS
+- styled-component
 - D3.js
 - Cordova
 - Phonegap
