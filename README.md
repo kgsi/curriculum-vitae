@@ -80,7 +80,7 @@
 #### 実務経験あり
 - HTML
 - CSS
-- Sass
+- Sass(SCSS)
 - PostCSS
 - CSS in JS
 - JavaScript
@@ -88,7 +88,7 @@
 - PHP
 - Python
 - NodeJS
-- C#(Unity)
+- C#(Unity) 
 
 #### 趣味レベル
 - Processing(P5.js)
@@ -97,7 +97,7 @@
 ### フレームワーク・ライブラリ利用経験例
 - Vue.js
 - React.js
-- Ionic
+- Ionic(v3)
 - jQuery
 - Electron
 - CreateJS
