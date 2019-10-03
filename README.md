@@ -178,7 +178,8 @@ HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](h
 ## 受賞歴
 - [はてなブログ テーマコンテスト 最優秀賞](http://staff.hatenablog.com/entry/2013/05/27/160012)
 
-## 登壇経験
+## 登壇・インタビュー
+- [CROSS PARTY 2019 - クロスするデザインとエンジニアリング](https://2019.cross-party.com/program/a4)
 - [Offers Magazine インタビュー](https://offers.jp/media/1350/)
 - [Inside Frontend 2019](https://inside-frontend.com/)
 - [「Webのこれからを語ろう」Ionic Meetup Tokyo #4 LT](https://speakerdeck.com/kgsi/ben-fan-huan-jing-wofen-kerusinpurunafang-fa-with-ionic)
