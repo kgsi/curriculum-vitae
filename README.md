@@ -82,7 +82,6 @@
 - CSS
 - Sass(SCSS)
 - PostCSS
-- CSS in JS
 - JavaScript
 - TypeScript
 - PHP
@@ -99,12 +98,10 @@
 - React.js
 - Ionic(v3)
 - jQuery
-- Electron
 - CreateJS
 - styled-component
 - D3.js
 - Cordova
-- Phonegap
 
 他多数...
 
