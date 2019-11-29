@@ -178,6 +178,7 @@ HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](h
 
 ## 活動履歴
 - [東京工業大学エンジニアリングデザインプロジェクト 企業側メンター参加中](https://titech-edp.github.io/)
+- [チームではじめるUIデザイン / Getting Started with Figma（社内勉強会）](https://speakerdeck.com/kgsi/getting-started-with-figma)
 - [CROSS PARTY 2019 - クロスするデザインとエンジニアリング](https://2019.cross-party.com/program/a4)
 - [Offers Magazine インタビュー](https://offers.jp/media/1350/)
 - [Inside Frontend 2019](https://inside-frontend.com/)
