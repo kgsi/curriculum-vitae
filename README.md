@@ -198,6 +198,7 @@ HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](h
 - [はてなブログ テーマコンテスト 最優秀賞](http://staff.hatenablog.com/entry/2013/05/27/160012)
 
 ## 活動履歴
+- [Offers Magazine 連載記事執筆](https://offers.jp/media/sidejob/a_1673)
 - [東京工業大学エンジニアリングデザインプロジェクト 企業側メンター参加中](https://titech-edp.github.io/)
 - [チームではじめるUIデザイン / Getting Started with Figma（社内勉強会）](https://speakerdeck.com/kgsi/getting-started-with-figma)
 - [CROSS PARTY 2019 - クロスするデザインとエンジニアリング](https://2019.cross-party.com/program/a4)
