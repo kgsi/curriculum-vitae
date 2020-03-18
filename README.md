@@ -198,6 +198,7 @@ HTMLマークアップ仕様書や[WordPressの構築設計ガイドライン](h
 - [はてなブログ テーマコンテスト 最優秀賞](http://staff.hatenablog.com/entry/2013/05/27/160012)
 
 ## 活動履歴
+- [TSConf JP 2020 クリエイティブ担当としてスタッフ参加](https://note.com/kgsi/n/n2a3989a06393)
 - [Offers Magazine 連載執筆](https://offers.jp/media/sidejob/a_1673)
 - [東京工業大学エンジニアリングデザインプロジェクト 企業側メンター参加](https://titech-edp.github.io/)
 - [チームではじめるUIデザイン / Getting Started with Figma（社内勉強会）](https://speakerdeck.com/kgsi/getting-started-with-figma)
