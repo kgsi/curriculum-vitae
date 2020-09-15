@@ -217,10 +217,11 @@ UIデザイナーの経験をベースに、情報設計、フロントエンド
 - [はてなブログ テーマコンテスト 最優秀賞](http://staff.hatenablog.com/entry/2013/05/27/160012)
 
 ## 活動履歴
+- [『実践TypeScript』の著者・吉井健文が考えるTypeScriptの魅力と可能性 - インタビュワーとして参加](https://offers.jp/media/interviews/a_1838)
 - [【CROSS Party online 2020 Mini 】#1～IT業界テレワーク五十三次～ LT](https://cross-party.connpass.com/event/180214/)
-- [TSConf JP 2020 クリエイティブ担当としてスタッフ参加](https://note.com/kgsi/n/n2a3989a06393)
-- [Offers Magazine 連載執筆](https://offers.jp/media/sidejob/a_1673)
-- [東京工業大学エンジニアリングデザインプロジェクト 企業側メンター参加](https://titech-edp.github.io/)
+- [TSConf JP 2020 - クリエイティブ担当としてスタッフ参加](https://note.com/kgsi/n/n2a3989a06393)
+- [Offers Magazine - 連載執筆](https://offers.jp/media/sidejob/a_1673)
+- [東京工業大学エンジニアリングデザインプロジェクト - 企業側メンター参加](https://titech-edp.github.io/)
 - [チームではじめるUIデザイン / Getting Started with Figma（社内勉強会）](https://speakerdeck.com/kgsi/getting-started-with-figma)
 - [CROSS PARTY 2019 - クロスするデザインとエンジニアリング](https://2019.cross-party.com/program/a4)
 - [Offers Magazine インタビュー](https://offers.jp/media/1350/)
