@@ -217,6 +217,7 @@ UIデザイナーの経験をベースに、情報設計、フロントエンド
 - [はてなブログ テーマコンテスト 最優秀賞](http://staff.hatenablog.com/entry/2013/05/27/160012)
 
 ## 活動履歴
+- [SmartHRの知見を公開！ 大量データとパフォーマンスを見据えたインターフェースの設計](https://creatorzine.jp/article/detail/1575)
 - [UI/UXデザイナーLT会 - LT](https://rakus.connpass.com/event/187048/)
 - [『実践TypeScript』の著者・吉井健文が考えるTypeScriptの魅力と可能性 - インタビュワーとして参加](https://offers.jp/media/interviews/a_1838)
 - [【CROSS Party online 2020 Mini 】#1～IT業界テレワーク五十三次～ LT](https://cross-party.connpass.com/event/180214/)
