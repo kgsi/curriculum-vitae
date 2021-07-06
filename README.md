@@ -20,6 +20,7 @@
 
 |媒体|リンク|
 |---|-----|
+|note|https://note.com/kgsi|
 |blog|[aircolor memolog](http://aircolor.hatenablog.com)|
 |twitter|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
 |qiita|[https://qiita.com/kgsi](https://qiita.com/kgsi)|
