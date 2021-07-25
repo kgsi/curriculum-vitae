@@ -91,31 +91,34 @@
 <details>
 <summary><strong>プログラム言語</strong></summary>
 
-- HTML
-- CSS
-- Sass(SCSS)
-- PostCSS
-- JavaScript
-- TypeScript
-- PHP
-- Python
-- NodeJS
-- C#(Unity) 
+|言語|経験年数|レベル|
+|---|-----|-----|
+|  HTML | 5年〜 | 人に教えられる |
+|  CSS  |  5年〜 | 人に教えられる |
+|  Sass  |  5年〜 | 人に教えられる |
+|  PostCSS  |  5年〜 | 人に教えられる |
+|  JavaScript  |  5年〜 | 人に教えられる |
+|  TypeScript  |  3年 | 実務で問題なく使える |
+|  Ruby  |  1年 | ある程度使える |
+|  PHP  |  5年 | 実務で問題なく使える |
+|  Python  | 1年 | ある程度使える |
+|   C#(Unity)  | 1年 | 少し使える |
 
-等
 </details>
 
 <details>
 <summary><strong>フレームワーク・ライブラリ利用経験例</strong></summary>
 
-- Vue.js
-- React.js
-- Ionic(v3)
-- jQuery
-- CreateJS
-- styled-component
-- D3.js
-- Cordova
+|名前|経験年数|レベル|
+|---|-----|-----|
+|  Vue.js | 3年 | 人に教えられる |
+|  React.js  |  3年 | 実務で問題なく使える |
+|  jQuery  |  5年〜 | 人に教えられる |
+|  styled-component  |  3年 | 人に教えられる |
+|  D3.js  |  1年 | ある程度使える |
+|  Cordova  |  1年 | 少し使える |
+|  Ionic(v3)  | 1年 | ある程度使える |
+|  Unity | 1年 | 少し使える |
 
 等
 </details>
