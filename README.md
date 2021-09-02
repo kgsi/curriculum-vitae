@@ -21,6 +21,7 @@
 |媒体|リンク|
 |---|-----|
 |note|https://note.com/kgsi|
+|Zenn|https://zenn.dev/kgsi|
 |blog|[aircolor memolog](http://aircolor.hatenablog.com)|
 |twitter|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
 |qiita|[https://qiita.com/kgsi](https://qiita.com/kgsi)|
@@ -49,6 +50,7 @@
 |---|-----|
 |2019.08|MI-6株式会社 副業として参加|
 |2020.07|さくらインターネット株式会社 副業として参加|
+|2021.08|株式会社令和トラベル 副業として参加|
 
 ## 経験領域
 
@@ -243,8 +245,8 @@ UIデザイナーの経験をベースに、情報設計、フロントエンド
 
 ## 活動履歴
 
-- [プロダクトチーム全職種集合！1職種を10分で完全理解する祭](https://smarthr.connpass.com/event/216409/) 
-- [【SmartHR×LIG特別イベント】デジタルプロダクトデザインMeetup！インハウスvsプロダクション編](https://liginc.co.jp/539640)
+- [プロダクトチーム全職種集合！1職種を10分で完全理解する祭 登壇](https://smarthr.connpass.com/event/216409/) 
+- [【SmartHR×LIG特別イベント】デジタルプロダクトデザインMeetup！インハウスvsプロダクション編 登壇](https://liginc.co.jp/539640)
 - [SmartHRの知見を公開！ 大量データとパフォーマンスを見据えたインターフェースの設計](https://creatorzine.jp/article/detail/1575)
 - [UI/UXデザイナーLT会 - LT](https://rakus.connpass.com/event/187048/)
 - [『実践TypeScript』の著者・吉井健文が考えるTypeScriptの魅力と可能性 - インタビュワーとして参加](https://offers.jp/media/interviews/a_1838)
