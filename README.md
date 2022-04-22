@@ -241,6 +241,7 @@ UIデザイナーの経験をベースに、情報設計、フロントエンド
 - 第三級陸上特殊無線技士 (2017〜)
 - JAL Global Club (2014〜)
 - ANA Super Flyers Card (2017〜)
+- Certified Scrum Product Owner（2022〜）
 
 ## 受賞歴
 
