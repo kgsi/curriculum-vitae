@@ -260,9 +260,9 @@
 
 ## 活動履歴
 
-- [Spectrum Tokyo Design Fest 2022 登壇](https://fest2022.spctrm.design/)
-- [フロントエンドカンファレンス沖縄2022 登壇](https://frontend-conf.okinawa.jp/)
-- [スナックぷろでざ 〜第二夜 突然の出会い、君はもうプロダクトデザイングループ〜 出演](https://smarthr.connpass.com/event/262254/)
+- [Spectrum Tokyo Design Fest 2022 登壇予定](https://fest2022.spctrm.design/)
+- [フロントエンドカンファレンス沖縄2022 登壇予定](https://frontend-conf.okinawa.jp/)
+- [スナックぷろでざ 〜第二夜 突然の出会い、君はもうプロダクトデザイングループ〜 出演予定](https://smarthr.connpass.com/event/262254/)
 - [うちのデザインレビューは“ここ”を見る【デザナレVol.11】 登壇](https://speakerdeck.com/kgsi/smarthr)
 - [Automagic Podcast #319 出演](https://podcasts.apple.com/jp/podcast/319-%E5%89%8D%E5%90%91%E3%81%8D%E3%81%AA%E5%A7%BF%E5%8B%A2%E3%81%8C%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E8%89%AF%E3%81%8F%E3%81%99%E3%82%8B-%E5%B0%8F%E6%9C%A8%E6%9B%BD-%E6%A7%99%E4%B8%80%E3%81%95%E3%82%93/id74183614?i=1000539364515) 
 - [プロダクトチーム全職種集合！1職種を10分で完全理解する祭 登壇](https://smarthr.connpass.com/event/216409/) 
