@@ -264,6 +264,7 @@
 
 ## 活動履歴
 
+- [ちいさくはじめるデザインシステム 執筆（共著）](https://amzn.asia/d/cHQGeFc)
 - [Spectrum Tokyo Design Fest 2022 登壇](https://fest2022.spctrm.design/)
 - [フロントエンドカンファレンス沖縄2022 登壇](https://frontend-conf.okinawa.jp/)
 - [スナックぷろでざ 〜第二夜 突然の出会い、君はもうプロダクトデザイングループ〜 出演](https://smarthr.connpass.com/event/262254/)
