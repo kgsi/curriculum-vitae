@@ -260,7 +260,7 @@
 
 ## 執筆
 
-- [ちいさくはじめるデザインシステム 執筆（共著）](https://amzn.asia/d/cHQGeFc)
+- [ちいさくはじめるデザインシステム（共著）](https://amzn.asia/d/cHQGeFc)
 - [SmartHRが実例で解説！業務アプリケーションにおけるデザインアプローチの心得（共著）](https://www.amazon.co.jp/dp/B09N7CV397/)
 
 ## 活動履歴
