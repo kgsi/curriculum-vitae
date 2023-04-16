@@ -263,10 +263,10 @@
 
 ## 執筆
 
-- [ちいさくはじめるデザインシステム（共著）](https://amzn.asia/d/cHQGeFc)
 - [SmartHRが実例で解説！業務アプリケーションにおけるデザインアプローチの心得（共著）](https://www.amazon.co.jp/dp/B09N7CV397/)
+- [ちいさくはじめるデザインシステム（共著）](https://amzn.asia/d/cHQGeFc)
 
-## 活動履歴
+## 活動履歴（降順）
 
 - [「Webのこれからを語ろう」Ionic Meetup Tokyo #4 LT](https://speakerdeck.com/kgsi/ben-fan-huan-jing-wofen-kerusinpurunafang-fa-with-ionic)
 - [Inside Frontend 2019 - 登壇](https://inside-frontend.com/)
