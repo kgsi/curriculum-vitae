@@ -268,7 +268,8 @@
 
 ## 活動履歴
 
-- [UbieとSmartHRが語る プロダクトデザイナーのリアル](https://smarthr.connpass.com/event/274689/)
+- [Ubie×サイボウズ×SmartHR デザインの価値を最大化するデザイン組織の"Why" モデレーター](https://ubie.connpass.com/event/278647/)
+- [UbieとSmartHRが語る プロダクトデザイナーのリアル 登壇](https://smarthr.connpass.com/event/274689/)
 - [Spectrum Tokyo Design Fest 2022 登壇](https://fest2022.spctrm.design/)
 - [フロントエンドカンファレンス沖縄2022 登壇](https://frontend-conf.okinawa.jp/)
 - [スナックぷろでざ 〜第二夜 突然の出会い、君はもうプロダクトデザイングループ〜 出演](https://smarthr.connpass.com/event/262254/)
