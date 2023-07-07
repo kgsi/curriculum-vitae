@@ -290,3 +290,5 @@
 - [Spectrum Tokyo Design Fest 2022 登壇](https://fest2022.spctrm.design/)
 - [UbieとSmartHRが語る プロダクトデザイナーのリアル 登壇](https://smarthr.connpass.com/event/274689/)
 - [Ubie×サイボウズ×SmartHR デザインの価値を最大化するデザイン組織の"Why" モデレーター](https://ubie.connpass.com/event/278647/)
+- [デザインシステムからはじめない、デザインシステムの考え方 モデレーター](https://flexy.connpass.com/event/289496/)
+- [【SmartHR×note×DMM】生成AIにおけるプロダクトデザインを考えよう イベント企画・登壇](https://smarthr.connpass.com/event/284344/)
