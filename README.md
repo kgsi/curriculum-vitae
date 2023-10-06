@@ -199,7 +199,7 @@
 
 - UIデザイナー向けメンター・コーチング
 
-### 株式会社ハシタス（2022.02〜）
+### 株式会社ハシタス（2022.02〜2023.03）
 
 - インターフェースの設計
 - Flutterによるアプリケーション開発実装
@@ -289,3 +289,5 @@
 - [Ubie×サイボウズ×SmartHR デザインの価値を最大化するデザイン組織の"Why" モデレーター](https://ubie.connpass.com/event/278647/)
 - [デザインシステムからはじめない、デザインシステムの考え方 モデレーター](https://flexy.connpass.com/event/289496/)
 - [【SmartHR×note×DMM】生成AIにおけるプロダクトデザインを考えよう イベント企画・登壇](https://smarthr.connpass.com/event/284344/)
+- [Design Canary Meetup #1 - 生成AIがもたらすサービスデザインの変化 イベント企画・司会](https://algomatic.connpass.com/event/294769/)
+
