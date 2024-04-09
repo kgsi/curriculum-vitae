@@ -1,19 +1,5 @@
 # 職務経歴書
 
-## アジェンダ
-
-- [基本情報](#基本情報) 
-- [学歴・職歴](#学歴職歴) 
-- [経験領域](#経験領域) 
-    - [デザイン](#デザイン) 
-    - [エンジニアリング](#エンジニアリング) 
-    - [その他](#その他) 
-- [スキル](#スキル) 
-- [職務経歴](#職務経歴) 
-- [自己PR](#自己pr) 
-- [保有資格](#保有資格)
-- [受賞歴](#受賞歴)
-
 ## 基本情報
 
 ### 名前
@@ -26,7 +12,7 @@
 |note|https://note.com/kgsi|
 |Zenn|https://zenn.dev/kgsi|
 |blog|[aircolor memolog](http://aircolor.hatenablog.com)|
-|twitter|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
+|X(twitter)|[https://twitter.com/kgsi](https://twitter.com/kgsi)|
 |qiita|[https://qiita.com/kgsi](https://qiita.com/kgsi)|
 |dribbble|[https://dribbble.com/kgsi](https://dribbble.com/kgsi)|
 |mail|[Gmail](kuusai1998@gmail.com)|
